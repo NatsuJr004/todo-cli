@@ -11,4 +11,4 @@ Projeto simples de um sistema de ToDo(Lista de tarefas) para seu terminal.
 [] Implementar comando global para executar ele de qualquer local no terminal. <br>
 [] Implementar sistema para salvar tasks em arquivo ou sqlite.
 
-_Desenvolvido com 💜 por Eduardo Junior ( Junior042 )_
+_Desenvolvido com 💜 por Natsu ( NatsuJr004 )_
